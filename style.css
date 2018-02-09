@@ -3,7 +3,7 @@ body{
 }
 
  .navbar-header{
-		background-color:#708090;
+		background-color:#8B0000;
 
 }
 
@@ -17,13 +17,15 @@ img{
 
 
 nav{
-	background-color:#708090;
+	backgroun5d-color:#708090;
 
 }
 
-
-	
-
+div a img{
+	width:145px;
+	height:30px;
+	margin:0px 0px 0px 10px;
+}
 
 
 ul li{
