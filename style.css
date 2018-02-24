@@ -3,7 +3,20 @@ body{
 }
 
  .navbar-header{
-		background-color:#708090;
+		background-color:#8B0000;
+
+}
+
+
+nav{
+	backgroun5d-color:#708090;
+
+}
+
+nav a img{
+	width:145px;
+	height:30px;
+	margin:0px 0px 0px 10px;
 }
 
 img{
@@ -15,16 +28,11 @@ img{
 }
 
 
-nav{
-	background-color:#708090;
-
-}
-
 ul li{
 	color:black;
 	font-size:20px;
-	font-family:cursive;
-	font-style:fantasy;
+	font-family:ariel
+	
 }
 
 
@@ -91,3 +99,4 @@ table td{
 .container2{
 	margin-top:40px;
 }
+
