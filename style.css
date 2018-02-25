@@ -53,7 +53,7 @@ h1{
 	font-style:normal;
 	font-family:sans-serif;
 	color:#8B0000;
-	
+
 }
 
 h1 p{
@@ -102,3 +102,28 @@ table td{
 	margin-top:40px;
 }
 
+div .container h2{
+	color:#8B0000;
+	font-size:40px;
+}
+
+
+.modal-content{
+	background-color:green;
+
+}
+
+h4{
+	color:yellow;
+	font-size:40px;
+	font-family:cursive;
+	font-style:italic;
+} 
+
+div .modal-body p{
+	background-color:blue;
+	font-size:40px;
+	font-color:red;
+}
+
+	
