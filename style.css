@@ -49,9 +49,11 @@ ul li{
 }
 
 h1{
-	font-size:30px;
-	font-style:italic;
-	font-family:serif;
+	font-size:35px;
+	font-style:normal;
+	font-family:sans-serif;
+	color:#8B0000;
+	
 }
 
 h1 p{
@@ -69,7 +71,7 @@ p{
 table{
 	background-color:#808080;
 	border-radius:3px;
-	margin:0px 0px 0px 90px;
+	margin:20px 0px 0px 90px;
 	border:2px solid black;
 
 }
